@@ -1,2 +1,2 @@
 # discordjs-bot
-Experimental discord bot in discord.js
+Experimental discord bot using discord.js
